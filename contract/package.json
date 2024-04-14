@@ -1,0 +1,13 @@
+{
+  "name": "near-donate-contract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  },
+  "dependencies": {
+    "as-bigint": "^0.5.3",
+    "bignumber.js": "^9.1.2"
+  }
+}
